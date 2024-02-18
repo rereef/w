@@ -1,0 +1,60 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Rajdhani:wght@300;400;500;600; 700&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+body {
+    
+    background: url(Pp.jpg) no-repeat center top;
+    height: 100vp;
+    background-size: cover
+  }
+
+  p {
+    text-indent: 100px;
+    font-family: "Montserrat", sans-serif;
+    color: white;
+    font-size: 19px;
+    margin-top: 60px;
+    margin-left: -30px;
+  }
+  b {
+    color: rgb(233, 218, 6);
+    font-size: 25px;
+  }
+  button {
+    background-color: yellow;
+    height: 50px;
+    width: -50px;
+    color: #ffffff;
+    padding: 10px;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+    border-radius: 20px;
+    margin-top: 420px;
+    margin-left: 80px;
+  }
+  
+  button:hover {
+    background-color: #6A5ACD;
+  }
+.pd {
+    color: #ffffff;
+    margin-left: 1px;
+    margin-top: -19px;
+    font-family: "Montserrat", sans-serif;
+    font-size: 19px;
+    font-weight: normal;
+    
+}
+.q {
+  color: #ffffff;
+  margin-left: 5px;
+  margin-top: 10px;
+  font-size: 15px;
+  font-weight: normal;
+
+}
+.io {
+  color: #ffffff;
+  font-size: 10px;
+  margin-left: 5px;
+}
